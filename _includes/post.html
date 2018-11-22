@@ -3,7 +3,7 @@
         <a href="{{ include.post.url | prepend: site.baseurl }}">
             <h1 class="post-title">{{ include.post.title }}</h1>
         </a>
-        <time datetime="{{ include.post.date | date_to_xmlschema }}" class="post-date">{{ include.post.date | date: "%-m %-d, %Y" }}
+        <time datetime="{{ include.post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%-d de %-m de %Y" }}
         {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}
 {% case m %}

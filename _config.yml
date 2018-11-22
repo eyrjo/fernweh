@@ -13,7 +13,7 @@ author_description: Esa persona con la que me iría de cañas.
 email: jorge@lamochiladejorge.es
 description: > # this means to ignore newlines until "baseurl:"
   Anhelo por viajar, como un impulso al que hay que dar respuesta, ansiar recorrer lugares lejanos. Algo que crece en el alma, una necesidad.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/fernweh" # the subpath of your site, e.g. /blog
 url: "https://yrjo.tk" # the base hostname & protocol for your site
 
 # Picturefill

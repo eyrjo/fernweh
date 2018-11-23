@@ -37,7 +37,7 @@ Sin duda, lo que más me gustó de Regio fue su *lungomare*. La isla de Sicilia 
 </div>
 
 <div class="post-image">
-    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_05.jpg" alt="Piazza Duomo" />                                                                                                                   
+    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_04.jpg" alt="Piazza Duomo" />                                                                                                                   
     <p class="post-image-caption">*Piazza Duomo*, enfrente de la Catedral</p>
 </div>
 

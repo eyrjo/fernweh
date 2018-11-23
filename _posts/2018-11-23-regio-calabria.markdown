@@ -2,7 +2,7 @@
 layout: post
 title:  "En la punta de la bota"
 date:   2018-11-23 13:00:00 +0100
-categories: italia
+tag: italia
 lang: es
 ref: regio-calabria
 location: Regio de Calabria, Italia

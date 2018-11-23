@@ -16,9 +16,7 @@ Sin duda, lo que más me gustó de Regio fue su *lungomare*. La isla de Sicilia 
 
 
 <div class="post-image">
-    <img src=
-        "https://github.com/eyrjo/candy-box/img/fernweh/regio/Regio 05.jpg
-      " alt="Palmeras en Regio Calabria" />
+    <img src="https://github.com/eyrjo/candy-box/img/fernweh/regio/Regio%2005.jpg" alt="Palmeras en Regio Calabria" />
 <div class="post-image post-image--split">
     <img src="https://github.com/eyrjo/candy-box/blob/master/img/fernweh/regio/Regio%2007.jpg" alt="El paseo marítimo de Reigio" />
     <img src="https://github.com/eyrjo/candy-box/blob/master/img/fernweh/regio/Regio%2008.jpg" alt="El estrecho de Catania siempre está lleno de grandes buques" />

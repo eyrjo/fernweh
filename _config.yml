@@ -28,7 +28,7 @@ typekit_kit_id:
 # Build settings
 gems: [jekyll-paginate]
 markdown: kramdown
-permalink: pretty
+permalink: none
 
 # Pagination
 paginate: 5

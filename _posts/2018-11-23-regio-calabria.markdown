@@ -21,31 +21,27 @@ Sin duda, lo que más me gustó de Regio fue su *lungomare*. La isla de Sicilia 
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_07.jpg" alt="El paseo marítimo de Reigio" />
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_08.jpg" alt="El estrecho de Catania siempre está lleno de grandes buques" />
 </div>                                                                                                                         
-    <p class="post-image-caption">Invierano en el *lungomare*. Aunque yo lo habría llamado verano invierno</p>
+    <p class="post-image-caption">Invierano en el lungomare. Aunque yo lo habría llamado verano invierno</p>
 </div>
 
 <div class="post-image">
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_10.jpg" alt="Vistas desde el castillo Aragonese" />
-</div>
 <p class="post-image-caption">Panorámica desde el Castillo Aragonés. Sicilia al fondo.</p>
 </div>
 
 <div class="post-image post-image--split">
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_02.jpg" alt="Pendolinos" />
-    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_03.jpg" alt="Pendolinos" />
-</div>                                                                                                                         
-    <p class="post-image-caption">*Pendolinos* tomando el sol y cogiendo el óxido</p>
+    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_03.jpg" alt="Pendolinos" />                                                                                                            
+    <p class="post-image-caption">Pendolinos tomando el sol y cogiendo el óxido</p>
 </div>
 
 <div class="post-image">
-    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_05.jpg" alt="Piazza Duomo" />
-</div>                                                                                                                     
+    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_05.jpg" alt="Piazza Duomo" />                                                                                                                   
     <p class="post-image-caption">*Piazza Duomo*, enfrente de la Catedral</p>
 </div>
 
 <div class="post-image">
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_01.jpg" alt="Pescando en el lungomare" />
-    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_09.jpg" alt="Puesta de sol en el lungomare" />
-</div>                                                                                                                     
-    <p class="post-image-caption">Pescando en el *lungomare*</p>
+    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_09.jpg" alt="Puesta de sol en el lungomare" />                                                                                                                     
+    <p class="post-image-caption">Pescando en el lungomare</p>
 </div>

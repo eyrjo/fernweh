@@ -4,7 +4,8 @@
             <h1 class="post-title">{{ include.post.title }}</h1>
         </a>
         <time datetime="{{ include.post.date | date_to_xmlschema }}" class="post-date">
-        {{ include.post.date | date: "%-d" }}
+        {{ include.post.date | date: "%-d" }} 
+            de
             {% assign m = include.post.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}Enero
@@ -20,6 +21,7 @@
   {% when '11' %}Noviembre
   {% when '12' %}Diciembre
 {% endcase %}
+            de
             {{ include.post.date | date: "%Y" }}
     </header>
     <div class="post-body">

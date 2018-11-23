@@ -14,12 +14,13 @@ Bañado por el Mediterráneo, Regio me recibió con temperaturas suaves, sol y b
 
 Sin duda, lo que más me gustó de Regio fue su *lungomare*. La isla de Sicilia está apenas a 8 kilómetros, y casi que la puedes tocar con el dedo. 
 
-<div class="post-image post-image--split">
-    <img src="http://placehold.it/365x270/8e8387/ffffff" alt="The first in an example of split-imagery" />
-    <img src="http://placehold.it/365x270/8e8387/ffffff" alt="The second in an example of split-imagery" />
-</div>
 
 <div class="post-image">
-    <img src="http://placehold.it/750x563/8e8387/ffffff" alt="A full-size image example" />
-    <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
+    <img src=https://github.com/eyrjo/candy-box/blob/master/img/fernweh/regio/Regio%2005.jpg" alt="Palmeras en Regio Calabria" />
+<div class="post-image post-image--split">
+    <img src="https://github.com/eyrjo/candy-box/blob/master/img/fernweh/regio/Regio%2007.jpg" alt="El paseo marítimo de Reigio" />
+    <img src="https://github.com/eyrjo/candy-box/blob/master/img/fernweh/regio/Regio%2008.jpg" alt="El estrecho de Catania siempre está lleno de grandes buques" />
+</div>                                                                                                                         
+    <p class="post-image-caption">Regio es un lugar casi tropical</p>
 </div>
+

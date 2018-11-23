@@ -3,9 +3,9 @@
         <a href="{{ include.post.url | prepend: site.baseurl }}">
             <h1 class="post-title">{{ include.post.title }}</h1>
         </a>
-        <time datetime="{{ include.post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%-d de %-m de %Y" }}
-        {% assign m = page.date | date: "%-m" %}
-
+        <time datetime="{{ include.post.date | date_to_xmlschema }}" class="post-date">
+        {{ include.post.date | date: "%-d" }}
+            {% assign m = include.post.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}Enero
   {% when '2' %}Febrero
@@ -20,6 +20,7 @@
   {% when '11' %}Noviembre
   {% when '12' %}Diciembre
 {% endcase %}
+            {{ include.post.date | date: "%Y" }}
     </header>
     <div class="post-body">
         {% if include.post.location %}<a href="https://www.google.com/maps/search/{{ include.post.location }}" target="_blank" class="post-body-location">{{ include.post.location }}</a><span class="post-body-location-divider">—</span>{% endif %}{{ include.content }}

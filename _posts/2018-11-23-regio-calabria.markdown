@@ -25,27 +25,27 @@ Sin duda, lo que más me gustó de Regio fue su *lungomare*. La isla de Sicilia 
 </div>
 
 <div class="post-image">
-    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_10.jpg" alt="Vistas desde el castillo. Sicilia al fondo" />
+    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_10.jpg" alt="Vistas desde el castillo Aragonese" />
 </div>
 <p class="post-image-caption">Panorámica desde el Castillo Aragonés. Sicilia al fondo.</p>
 </div>
 
 <div class="post-image post-image--split">
-    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_02.jpg" alt="El paseo marítimo de Reigio" />
-    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_03.jpg" alt="El estrecho de Catania siempre está lleno de grandes buques" />
+    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_02.jpg" alt="Pendolinos" />
+    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_03.jpg" alt="Pendolinos" />
 </div>                                                                                                                         
     <p class="post-image-caption">*Pendolinos* tomando el sol y cogiendo el óxido</p>
 </div>
 
 <div class="post-image">
-    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_05.jpg" alt="Palmeras en Regio Calabria" />
+    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_05.jpg" alt="Piazza Duomo" />
 </div>                                                                                                                     
     <p class="post-image-caption">*Piazza Duomo*, enfrente de la Catedral</p>
 </div>
 
 <div class="post-image">
-    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_01.jpg" alt="Palmeras en Regio Calabria" />
-    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_09.jpg" alt="Palmeras en Regio Calabria" />
+    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_01.jpg" alt="Pescando en el lungomare" />
+    <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_09.jpg" alt="Puesta de sol en el lungomare" />
 </div>                                                                                                                     
     <p class="post-image-caption">Pescando en el *lungomare*</p>
 </div>

@@ -13,6 +13,6 @@ Espero que os guste.
 J
 
 <div class="post-image">
-    <img src="http://placehold.it/750x563/8e8387/ffffff" alt="A full-size image example" />
-    <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
+    <img src="/fernweh/photo/2018-11-22-fernweh/2017-11-14 06.30.20 1.jpg" alt="Autopista" />
+    <p class="post-image-caption">Autopista a todas partes.</p>
 </div>

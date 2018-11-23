@@ -16,6 +16,7 @@ Sin duda, lo que más me gustó de Regio fue su *lungomare*. La isla de Sicilia 
 
 <div class="post-image">
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_05.jpg" alt="Palmeras en Regio Calabria" />
+    <br>
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_06.jpg" alt="Lungomare Falcomatà" />
 <div class="post-image post-image--split">
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_07.jpg" alt="El paseo marítimo de Reigio" />
@@ -42,6 +43,7 @@ Sin duda, lo que más me gustó de Regio fue su *lungomare*. La isla de Sicilia 
 
 <div class="post-image">
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_01.jpg" alt="Pescando en el lungomare" />
+    <br>
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_09.jpg" alt="Puesta de sol en el lungomare" />                                                                                                                     
     <p class="post-image-caption">Pescando en el lungomare</p>
 </div>

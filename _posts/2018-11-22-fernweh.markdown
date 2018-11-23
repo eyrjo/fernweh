@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Fernweh"
+date:   2015-11-22 13:00:00 +0100
+---
+
+A mitad de camino entre algo más formal y unas notas de campo, he decidido empezar esta página. Se llama 'Fernweh', una palabra del alemán que podría traducirse al castellano como "ansia de viajar". Para mi es ese sentimiento que tengo cuando estoy algún tiempo en tierra; esa necesidad de volver a echar a volar en cualquier momento, hacia cualquier lugar. 
+
+Quiero aprovechar y enseñar las instantáneas que he capturado en mis viajes. Por eso, una guía de lo que encontraréis en el otro lado del mundo. El poco texto que haya serán pequeñas (o grandes) pinceladas, sentimientos, para contextualizar el tiempo y el lugar. 
+
+Espero que os guste.
+
+J
+
+<div class="post-image">
+    <img src="http://placehold.it/750x563/8e8387/ffffff" alt="A full-size image example" />
+    <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
+</div>

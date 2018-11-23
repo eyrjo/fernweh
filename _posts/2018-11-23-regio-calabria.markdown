@@ -12,7 +12,7 @@ El año pasado, más o menos por estas fechas, comencé a viajar por trabajo a l
 
 Bañado por el Mediterráneo, Regio me recibió con temperaturas suaves, sol y buen tiempo en pleno mes de diciembre. Por aquí pasaron (y dominaron) los aragoneses, notándose su influencia en la arquitectura y la manera de ser de la ciudad. 
 
-Sin duda, lo que más me gustó de Regio fue su *lungomare*. La isla de Sicilia está apenas a 8 kilómetros, y casi que la puedes tocar con el dedo. 
+Sin duda, lo que más me gustó de Regio fue su *lungomare*. Desde allí, la isla de Sicilia está apenas a unos kilómetros; casi que la puedes tocar con la punta del dedo índice, si te estiras un poco desde la orilla. Al otro lado, el Etna ya estaba nevado.
 
 <div class="post-image">
     <div class="post-image">
@@ -23,7 +23,7 @@ Sin duda, lo que más me gustó de Regio fue su *lungomare*. La isla de Sicilia 
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_07.jpg" alt="El paseo marítimo de Reigio" />
     <img src="/fernweh/photo/2018-11-23-Regio-Calabria/Regio_08.jpg" alt="El estrecho de Catania siempre está lleno de grandes buques" />
 </div>                                                                                                                         
-    <p class="post-image-caption">Invierano en el lungomare. Aunque yo lo habría llamado verano invierno</p>
+    <p class="post-image-caption">Invierano en el lungomare. Aunque yo lo habría llamado verano-invierno</p>
 </div>
 
 <div class="post-image">

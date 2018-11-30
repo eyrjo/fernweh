@@ -4,7 +4,7 @@ title:  "Un alma menos mía"
 date:   2018-11-30 13:00:00 +0100
 tag: portugal
 lang: es
-ref: lisboa-01
+ref: lisboa-2018
 location: Lisboa, Portugal
 ---
 
@@ -81,5 +81,5 @@ Cada viaje es diferente. Las sensaciones pueden ser parecidas. Ni Lisboa y yo no
 > Otra vez vuelvo a verte  
 > con el corazón más lejano, el alma menos mía.  
 
-\-- Álvaro de Campos. *Lisbon Revisited* (1926)
+\- Álvaro de Campos. *Lisbon Revisited* (1926)
 

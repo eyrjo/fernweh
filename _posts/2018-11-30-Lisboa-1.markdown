@@ -33,7 +33,7 @@ Cada viaje es diferente. Las sensaciones pueden ser parecidas. Ni Lisboa y yo no
     <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_160333_HDR.jpg" alt="Elevador da Glória" />
     </div>
     <div class="post-image post-image--split">
-    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_160541_HDR-01.jpeg" alt="Flores de ciudad" />
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_160541_HDR-01.jpg" alt="Flores de ciudad" />
     <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_160942_HDR-01.jpg" alt="Arte urbano" />
 </div>                                                                                                                         
     <p class="post-image-caption">Bajar por las empinadas calles del Barrio Alto siempre trae alguna grata sorpresa</p>

@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Un alma menos mía"
+date:   2018-11-30 13:00:00 +0100
+tag: portugal
+lang: es
+ref: lisboa-01
+location: Lisboa, Portugal
+---
+
+Lisboa es mi casa. Lisboa es la ciudad de mi vida. Apenas bastaron 10 meses para que me enamorara por completo.
+A Lisboa voy de cuando en cuando, sin avisar, cuando me apetece y, sobre todo, cuando siento que tengo *saudade* de ella.
+Sólo con recordar la luz y los colores ya tengo ganas de ir. ¿Sabíais que la ciudad cambia de color dependiendo de la época del año? 
+
+En esta ocasión, era final de mayo. Los días eran largos y la temperatura era agradable. Un sol maravilloso bañaba las siete colinas y les daba esa luminosidad que sólo hay allí. 
+24 horas en Lisboa dan para mucho. Paseamos de la Avenida al *Terreiro do Paço*. Contemplamos la puesta de sol sobre el puente del 25 de Abril. Salimos por Barrio Alto. Subimos a Graça en un tranvía amarillo. Y, finalmente, nos dejamos perder en Alfama. 
+
+Cada viaje es diferente. Las sensaciones pueden ser parecidas. Ni Lisboa y yo no somos los mismos. Las fotos de mis aventuras allí nunca son iguales. 
+
+<div class="post-image">
+    <div class="post-image">
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_193915-01.jpg" alt="Puesta de sol sobre el puente 25 de Abril" />
+    </div>
+    <div class="post-image post-image--split">
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_193604_HDR-01.jpg" alt="Cais das Colunas" />
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_193656_HDR-01.jpg" alt="Hacia el horizonte" />
+</div>                                                                                                                         
+    <p class="post-image-caption">El final del día siempre es un buen momento para visitar el Tajo</p>
+</div>
+
+<div class="post-image">
+    <div class="post-image">
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_160333_HDR.jpg" alt="Elevador da Glória" />
+    </div>
+    <div class="post-image post-image--split">
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_160541_HDR-01.jpeg" alt="Flores de ciudad" />
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_160942_HDR-01.jpg" alt="Arte urbano" />
+</div>                                                                                                                         
+    <p class="post-image-caption">Bajar por las empinadas calles del Barrio Alto siempre trae alguna grata sorpresa</p>
+</div>
+
+<div class="post-image">
+    <div class="post-image">
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_131232_HDR-01.jpg" alt="El clásico número 28" />
+    </div>
+    <p class="post-image-caption">Lisboa y los tranvías es una historia de amor</p>
+</div>
+
+<div class="post-image">
+    <div class="post-image">
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_140331_HDR-01.jpg" alt="Calles pequeñas, corazones grandes" />
+    </div>
+    <div class="post-image post-image--split">
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_140647_HDR-01.jpg" alt="Perdiéndonos en Alfama" />
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_132100_HDR-01.jpg" alt="Azulejos azules" />
+</div>                                                                                                                         
+    <p class="post-image-caption">Entrar en el laberinto de Alfama siempre es un buen plan</p>
+</div>
+
+<div class="post-image">
+    <div class="post-image">
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_135706_HDR-01.jpg" alt="Pessoa y Lisboa" />
+    </div>
+    <div class="post-image post-image--split">
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_135554_HDR-01.jpg" alt="En todas partes" />
+    <img src="/fernweh/photo/2018-11-30-Lisboa-01/Lisboa_135439_HDR-01.jpg" alt="La sardina como símbolo de los lisboetas" />
+</div>                                                                                                                         
+    <p class="post-image-caption">Si te gusta el arte urbano, te gustará Lisboa</p>
+</div>
+
+
+> Otra vez vuelvo a verte,  
+> ciudad de mi infancia pavorosamente perdida...  
+> Ciudad triste y alegre, otra vez sueño aquí...  
+> ¿Yo? Pero, ¿soy yo el mismo que aquí viví, y aquí volví,  
+> y aquí volví a volver y volver,  
+> y aquí de nuevo he vuelto a volver?  
+> ¿O todos los Yo que aquí estuve o estuvieron somos  
+> una serie de cuentas-entes ensartadas en un hilo-memoria,  
+> una serie de sueños de mí por alguien que está fuera de mí?  
+> Otra vez vuelvo a verte  
+> con el corazón más lejano, el alma menos mía.  
+
+\-- Álvaro de Campos. *Lisbon Revisited* (1926)
+
